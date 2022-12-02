@@ -12,7 +12,7 @@ export default function SidebarMenu() {
   ];
 
   return (
-    <div className="overflow-y-auto w-full py-4">
+    <div className="overflow-y-auto w-full mt-8 py-4">
       <ul className="space-y-2">
         {sidebarOptions.map((option) => (
           <li key={option.name}>

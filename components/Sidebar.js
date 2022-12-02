@@ -9,7 +9,7 @@ export default function Sidebar() {
 
       <SidebarMenu />
 
-      <div className="relative top-16 px-4 flex flex-row justify-center">
+      <div className="relative top-24 px-4 flex flex-row justify-center">
         <Toggle />
       </div>
     </aside>
